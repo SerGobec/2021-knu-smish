@@ -1,0 +1,2 @@
+Link to generator:
+https://github.com/SerGobec/SMIS_Generator
