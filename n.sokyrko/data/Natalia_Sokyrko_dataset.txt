@@ -80,7 +80,7 @@ SPAM	Santa Calling! Would your little ones like a call from Santa Xmas eve? Call
 LEGI	Mumbai Example Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Mumbai Example Bank.
 ​LEGI	Capital One Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Capital One Bank.
 ​LEGI	Charles Schwab Corporation Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Charles Schwab Corporation Bank.
-​LEGI	American Express Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Capital One Bank.
+LEGI	American Express Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Capital One Bank.
 ​LEGI	Ally Financial Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - American Express Bank.
 ​LEGI	USAA Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Ally Financial Bank.
 ​LEGI	State Farm Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - USAA Bank.
