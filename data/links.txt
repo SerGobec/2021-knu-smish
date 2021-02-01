@@ -1,0 +1,4 @@
+https://www.smsgatewaycenter.com/site/bulk-sms-banks/ - templates for LEGI banking sms generation
+https://www.newocr.com/ - OCR Image to Text Converter
+https://www.kaggle.com/uciml/sms-spam-collection-dataset - SMS Collection from Kaggle
+https://receive-smss.com/ - used for sms parsing 
