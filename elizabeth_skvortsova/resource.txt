@@ -1,0 +1,8 @@
+1) My London and Warsaw messages
+2) My boyfriend's London and EU messages
+3) His family's messages
+4) Ready datasets from this links (i'm not sure about the first one, but one or two were from kaggle):
+    https://www.kaggle.com/coolkaggleuser/sms-spam-collection-data-set
+    https://github.com/davidkim827/sms_scraper
+    https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
+5) and a lot of from Google pictures using google lens
