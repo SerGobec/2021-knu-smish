@@ -78,16 +78,16 @@ SPAM	Get your garden ready for summer with a FREE selection of summer bulbs and 
 SPAM	Latest News! Police station toilet stolen, cops have nothing to go on!
 SPAM	Santa Calling! Would your little ones like a call from Santa Xmas eve? Call 09058094583 to book your time.
 LEGI	Mumbai Example Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Mumbai Example Bank.
-​LEGI	Capital One Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Capital One Bank.
-​LEGI	Charles Schwab Corporation Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Charles Schwab Corporation Bank.
-​LEGI	American Express Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Capital One Bank.
-​LEGI	Ally Financial Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - American Express Bank.
-​LEGI	USAA Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Ally Financial Bank.
-​LEGI	State Farm Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - USAA Bank.
-​LEGI	Goldman Sachs Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Goldman Sachs Bank.
-​LEGI	BBVA USA Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - BBVA USA Bank.
-​LEGI	UBS Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - UBS Bank.
-​LEGI	Credit Suisse Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Credit Suisse Bank.
+LEGI	Capital One Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Capital One Bank.
+LEGI	Charles Schwab Corporation Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Charles Schwab Corporation Bank.
+LEGI	American Express Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Capital One Bank.
+LEGI	Ally Financial Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - American Express Bank.
+LEGI	USAA Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Ally Financial Bank.
+LEGI	State Farm Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - USAA Bank.
+LEGI	Goldman Sachs Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Goldman Sachs Bank.
+LEGI	BBVA USA Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - BBVA USA Bank.
+LEGI	UBS Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - UBS Bank.
+LEGI	Credit Suisse Bank offers home loans with the best rate of interest, NO preclosure and no penalty on part pre-payments. Reach us on E-Mail or MobileNo. - Credit Suisse Bank.
 LEGI	​Mumbai Example Bank offers personal loans with the best rate of interest, Faster approval in 3 days. Reach us on E-Mail or MobileNo. - Mumbai Example Bank.
 LEGI	Citigroup Bank offers personal loans with the best rate of interest, Faster approval in 3 days. Reach us on E-Mail or MobileNo. - Citigroup Bank.
 LEGI	Wells Fargo Bank offers personal loans with the best rate of interest, Faster approval in 3 days. Reach us on E-Mail or MobileNo. - Wells Fargo Bank.
@@ -529,7 +529,7 @@ LEGI	Ok.
 LEGI	PS U no ur a grown up now right?
 LEGI	I know a few people I can hit up and fuck to the yes
 LEGI	Haha... can... But i'm having dinner with my cousin...
-LEGI	A boy was late 2 home. His father: "POWER OF FRNDSHIP"
+LEGI	"A boy was late 2 home. His father: ""POWER OF FRNDSHIP"""
 LEGI	Hmm well, night night 
 LEGI	Just wanted to say holy shit you guys weren't kidding about this bud
 LEGI	This is one of the days you have a billion classes, right?
@@ -602,7 +602,7 @@ LEGI	If you r @ home then come down within 5 min
 LEGI	I'm on my way home. Went to change batt 4 my watch then go shop a bit lor.
 LEGI	No message..no responce..what happend?
 LEGI	Also where's the piece
-LEGI	wiskey Brandy Rum Gin Beer Vodka Scotch SLEGIpain Wine "KUDI"yarasu dhina vaazhthukkal. ..
+LEGI	"wiskey Brandy Rum Gin Beer Vodka Scotch SLEGIpain Wine ""KUDI""yarasu dhina vaazhthukkal. .."
 LEGI	Boo. How's things? I'm back at home and a little bored already :-(
 LEGI	Jesus christ bitch I'm trying to give you drugs answer your fucking phone
 LEGI	Please give it 2  or i will pick it up on Tuesday evening about 8 if that is ok.
@@ -631,7 +631,7 @@ LEGI	Jesus armand really is trying to tell everybody he can find
 LEGI	I'm wif him now buying tix lar...
 LEGI	Mode men or have you left.
 LEGI	Am slow in using biola's fne
-LEGI	"What are youdoing later? Sar xxx"
+LEGI	What are youdoing later? Sar xxx
 LEGI	Hey i've booked the 2 lessons on sun liao...
 LEGI	Thank you. do you generally date the brothas?
 LEGI	By the way, make sure u get train to worc foregate street not shrub hill. Have fun night x
@@ -676,7 +676,7 @@ LEGI	Good afternoon, my love ... How goes your day ? How did you sleep ? I hope 
 LEGI	Yes... I trust u to buy new stuff ASAP so I can try it out
 LEGI	Why did I wake up on my own &gt;:(
 LEGI	Now get step 2 outta the way. Congrats again.
-LEGI	Love has one law; Make happy the person you love. In the same way friendship has one law; Never make ur friend feel alone until you are alive.... Gud nightspam	PRIVATE! Your 2003 Account Statement for 07808247860 shows 800 un-redeemed S. I. M. points. Call 08719899229 Identifier Code: 40411 Expires 06/11/04
+LEGI	Love has one law; Make happy the person you love. In the same way friendship has one law; Never make ur friend feel alone until you are alive.... Gud nightspam
 LEGI	Apo all other are mokka players only
 LEGI	Perhaps * is much easy give your account identification, so i will tomorrow at UNI
 LEGI	Wait . I will msg after  &lt;#&gt;  min.
@@ -872,7 +872,7 @@ LEGI	Your OffGamers code is 781106. Valid for 10 mins. Don't share code with oth
 LEGI	3794 is your DoorDash verification code.
 LEGI	Don't tell anyone! Code: 83662 session: 68166. Login: passport.webmoney.ru (900004858098)
 LEGI	Optus Sport: Your confirmation code is 793023.
-LEGI	24449 - code for application "WebMoney Wallet".
+LEGI	"24449 - code for application ""WebMoney Wallet""."
 LEGI	CallGate verification code 277983 t4pIWYbBpnY
 LEGI	PayPal: Your security code is: 803384. It expires in 10 minutes. Don't share this code with anyone.
 LEGI	PayPal: Your security code is: 453791. It expires in 10 minutes. Don't share this code with anyone.
@@ -892,7 +892,7 @@ LEGI	[Binance] Hello, you've reset the Email Authentication on your account succ
 LEGI	Your OkCupid code is 266791 Don’t share
 LEGI	[Binance] Hello, you attempted to reset your security items. Your Binance verification code is 367694. For security reasons, this code will expire in 30 minutes.
 LEGI	PayPal: Your security code is: 044172. It expires in 10 minutes. Don't share this code with anyone.
-LEGI	[Binance] Verification code: 763014. To prevent phishing, make sure that you're on our official website "www.binance.com" before proceeding.
+LEGI	"[Binance] Verification code: 763014. To prevent phishing, make sure that you're on our official website ""www.binance.com"" before proceeding."
 LEGI	Hi joe, thanks for making an enquiry on Urban!
 LEGI	CallGate verification code 885834 t4pIWYbBpnY
 LEGI	Your Urban.com.au verification code is: 246157
@@ -1231,7 +1231,7 @@ SMIS	18559333547: (BoA) Debit Card Locked. visit http://www.312xxxxx20. BankOfAm
 SMIS	bank of america message: important – please call at 630-701-6543 to review your account. Client id: 55g5lpfxf3dd5an
 SMIS	[B a n k O f A m e r I c a] UrgentMessage.Please Ring: (818) 688-4222)
 SMIS	Bank Of America – ACCOUNT LOCKED Member: 7735471815. Urgent CALL : (855) 277-7117
-SMIS	[B A N K OF A M E R I C A] UrgentNotification Contact: 914 266 8559)"
+SMIS	"[B A N K OF A M E R I C A] UrgentNotification Contact: 914 266 8559)"""
 SMIS	MYB.O.F.A Urgent Notification Contact: 914 266 8559
 SMIS	Office My B.O.F.A Attention needed Contact: 9142668559
 SMIS	My Master Urgent Notification Contact: 914 266 8559
@@ -1269,7 +1269,7 @@ SPAM	Our flag, our Identity. If not now, Then when! We need your contribution. B
 SPAM	Win this iPhone case: one for you and one for your friend! Comment on this post and tag a friend
 SPAM	2020 is turning out to be the weirdest year ever, Kanye for President?…..
 SPAM	One billion plastic toothbrushes are thrown away every year in the United States 😱 , creating 50 million pounds of waste annually. Don’t be part of the problem. Help the world by not using plastic and use biodegradable bamboo toothbrushes!
-SPAM	~ "Remember, upon the the conduct of each depends the fate of all" - Alexander the Great ~
+SPAM	"~ ""Remember, upon the the conduct of each depends the fate of all"" - Alexander the Great ~"
 SPAM	Clinically proven teeth whitening, tested by dentists. See visibly whiter teeth with our advanced PAP™ formula.
 SPAM	Perfect gifts for shark lovers️ 🦈Order here: https://rebrand.ly/sharkst Fast shipping worldwide!
 SPAM	Up To 70% Off 😍 Hot Sale Cold Shoulder Top🤗🤗 Get yours👉 https://ys.ggood.vip/UKEs
@@ -1279,7 +1279,7 @@ SPAM	You're so attractive in these Outfits Cartoon, Black style, Which One? Code
 SPAM	You're so attractive in these Outfits Cartoon, Black style. Which One? Code: New19 [$10off $99over]Shop More>>>https://bit.ly/2Ynni7k
 SPAM	𝐅𝐫𝐞𝐬𝐡 𝐁𝐚𝐤𝐞𝐝 𝐌𝐚𝐧𝐧𝐚: 90 Days of Wisdom from the Word of God Volume One Revised Edition 𝐢𝐬 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐟𝐨𝐫 𝐩𝐮𝐫𝐜𝐡𝐚𝐬𝐞 𝐨𝐧 𝐀𝐦𝐚𝐳𝐨𝐧!Click to order: https://www.amazon.com/dp/0998844489/ref=cm_sw_r_cp_api_i_iGZWEb
 SPAM	Buy it ONCE, use it FOREVER I have always had sensitive skin like a baby Which means I didn’t use a razor on my face for over 5 years! No matter what I did, every time I used a traditional razor I would break out in a rash and pimples! 
-SPAM	"𝗜𝘁 𝗵𝗲𝗹𝗽𝘀 𝗺𝗲 𝘁𝗼 𝗳𝗶𝗴𝘂𝗿𝗲 𝗳𝗹𝗮𝘁 𝘁𝗶𝗿𝗲 𝗯𝗲𝗳𝗼𝗿𝗲 𝗜 𝗴𝗲𝘁 𝗶𝗻𝘁𝗼 𝗮𝗰𝗰𝗶𝗱𝗲𝗻𝘁 𝗹𝗮𝘀𝘁 𝘄𝗲𝗲𝗸" Recommend to somebody whose car doesn’t have tire pressure detector ORDER: https://immujet.org/solar-tire-pressure-monitor
+SPAM	𝗜𝘁 𝗵𝗲𝗹𝗽𝘀 𝗺𝗲 𝘁𝗼 𝗳𝗶𝗴𝘂𝗿𝗲 𝗳𝗹𝗮𝘁 𝘁𝗶𝗿𝗲 𝗯𝗲𝗳𝗼𝗿𝗲 𝗜 𝗴𝗲𝘁 𝗶𝗻𝘁𝗼 𝗮𝗰𝗰𝗶𝗱𝗲𝗻𝘁 𝗹𝗮𝘀𝘁 𝘄𝗲𝗲𝗸 Recommend to somebody whose car doesn’t have tire pressure detector ORDER: https://immujet.org/solar-tire-pressure-monitor
 SPAM	Send your love to someone out of reach to let them know you are thinking of them - no matter the distance Find more thoughtful letterbox gifts at www.thedriftingbear.com 
 SPAM	Pefect gift for fans! Order here ➤ https://zshorten.com/NBZO6
 SPAM	Do you love this, truck lovers? Order here > http://tinyurl.com/rlxkf92
@@ -1294,7 +1294,7 @@ SPAM	Keep your food fresher and eliminate single-use plastics from your life wit
 SPAM	There Is No Planet B! Spread this message. Shop Now!10% of our profits go to animal rescue and environmental organizations
 SPAM	Awesome T shirt|Hoodie for :⚡COUNCIL MEMBER (y) Order here ➨https://www.anphatee.com/councimember?checkout=cart
 SPAM	Face the beauty revolution! These brushes are meticulously handcrafted by master artisans in Kumano, Japan - the world's capital of brush making.
-SPAM	New album "Word From The Brave" coming on June 28th ! You can pre order it on our website
+SPAM	"New album ""Word From The Brave"" coming on June 28th ! You can pre order it on our website"
 SPAM	Check out our Brand New Design! Don't miss this item, grab it now! Order here => https://bit.ly/2InUg0p Free shipping on orders over $50!
 SPAM	FREE INFLATABLE DOUGHNUT WITH EVERY ORDER THIS JUNE
 SPAM	B.M.W men’s sports suit 535 SALE 50% - FREE SHIPPING
@@ -1319,7 +1319,7 @@ SPAM	NEW IN🔥$20.99 💝15% OFF For New User
 SPAM	New users 15% off for first order🎉Free shipping over $59💗Extra discount 7% off over $79🛒Shop now
 SPAM	Shop the world's FIRST 100% biodegradable phone case! Pela Case is made from plants Beautiful design & amazing protection. We offer free shipping globally.
 SPAM	Treat yourself guilt-free today..you deserve it! Use code 'CART10' to get 10% OFF the products you've been eyeing for. Shop the Aimee Mini Tote Bundle today!
-SPAM	Collection "Around" Series "Purple" More on the site www.okgural.com
+SPAM	"Collection ""Around"" Series ""Purple"" More on the site www.okgural.com"
 SPAM	FILL UP THOSE HANDS Up to 40% OFF your order. Time to knuckle up! SHOP NOW: www.outlaws.amsterdam
 SPAM	We all know you've got someone who would absolutely love this as a gift, so here's 5% off your order for the next 12 hours! Use code '5BACK' at checkout
 SPAM	Creative iPhone Case for iPhone XS MAX/XR/XS/X/8/7/6S/6 and Plus  New Arrivals , Fast ShippingShop Now 👉 www.caseative.com
@@ -1330,7 +1330,7 @@ SPAM	4ocean's first cell phone case is here! For every phone case purchased, 4oc
 SPAM	The perfect hoodie for any activity, this one’s got your name all over it! Shop it now. Order here -> https://bit.ly/2ZuYZVz Worldwide shipping!
 SPAM	ADULT UNISEX PRINTED T-SHIRTS! SHOP NOW FOR MORE DETAILS! https://www.ktmwear.com/
 SPAM	Proudly Being Poles Style made Just for You Shop Now: www.1sttheworld.com/collections/poland-eagle-vintage-style
-SPAM	Get A New Haircut to match Your Makeup Click "Shop Now" to Order! https://nc.ggood.vip/TK63
+SPAM	"Get A New Haircut to match Your Makeup Click ""Shop Now"" to Order! https://nc.ggood.vip/TK63"
 SPAM	New bracelet now available: The Albatross Bracelet Shop 4ocean bracelets & join the movement!
 SPAM	Stay With Your Angel All The Time Engraving necklace with Birthstone. Shop now👉 https://bit.ly/3d1w9SD
-SPAM	Introducing the Beluga Whale Bracelet. Shop now & pull a pound!	
+SPAM	Introducing the Beluga Whale Bracelet. Shop now & pull a pound!
