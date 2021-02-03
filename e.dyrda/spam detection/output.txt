@@ -1,0 +1,105 @@
+2021-02-03 12:30:11.811033: W tensorflow/stream_executor/platform/default/dso_loader.cc:60] Could not load dynamic library 'cudart64_110.dll'; dlerror: cudart64_110.dll not found
+2021-02-03 12:30:11.811992: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+----------------------------------------NB----------------------------------------
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+[Parallel(n_jobs=1)]: Done  10 out of  10 | elapsed:  2.4min finished
+scores=[0.96407186 0.93413174 0.9760479  0.96407186 0.95209581 0.95808383
+ 0.95180723 0.96385542 0.93373494 0.95783133]
+mean=0.9555731909674627 std=0.01267511809281213
+----------------------------------------SVM----------------------------------------
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+[Parallel(n_jobs=1)]: Done  10 out of  10 | elapsed:  2.4min finished
+scores=[0.99401198 0.98802395 0.98802395 0.99401198 0.9760479  0.99401198
+ 0.96987952 0.9939759  0.97590361 0.96987952]
+mean=0.9843770290743814 std=0.009791648605421704
+----------------------------------------RFT----------------------------------------
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+[Parallel(n_jobs=1)]: Done  10 out of  10 | elapsed:  2.6min finished
+scores=[0.96407186 0.95209581 0.96407186 0.98203593 0.96407186 0.95808383
+ 0.96385542 0.98192771 0.95180723 0.96385542]
+mean=0.964587692085708 std=0.009842131276143551
+----------------------------------------NB----------------------------------------
+NB_model.pkl file was loaded
+['LEGI' 'LEGI' 'SMIS' ... 'SMIS' 'LEGI' 'SPAM']
+----------------------------------------SVM----------------------------------------
+SVM_model.pkl file was loaded
+['LEGI' 'LEGI' 'SMIS' ... 'SMIS' 'LEGI' 'SPAM']
+----------------------------------------RFT----------------------------------------
+RFT_model.pkl file was loaded
+['LEGI' 'LEGI' 'SMIS' ... 'SMIS' 'LEGI' 'SPAM']
+----------------------------------------NB----------------------------------------
+--------------------Testing Performance--------------------
+              precision    recall  f1-score   support
+
+        LEGI       0.97      1.00      0.98       286
+        SMIS       0.97      0.99      0.98        84
+        SPAM       1.00      0.76      0.86        46
+
+    accuracy                           0.97       416
+   macro avg       0.98      0.92      0.94       416
+weighted avg       0.97      0.97      0.97       416
+
+acc:  0.9711538461538461
+--------------------Training Performance--------------------
+              precision    recall  f1-score   support
+
+        LEGI       0.98      1.00      0.99      1150
+        SMIS       1.00      1.00      1.00       321
+        SPAM       1.00      0.86      0.93       195
+
+    accuracy                           0.98      1666
+   macro avg       0.99      0.95      0.97      1666
+weighted avg       0.98      0.98      0.98      1666
+
+acc:  0.9837935174069627
+----------------------------------------SVM----------------------------------------
+--------------------Testing Performance--------------------
+              precision    recall  f1-score   support
+
+        LEGI       0.99      1.00      0.99       286
+        SMIS       1.00      1.00      1.00        84
+        SPAM       0.98      0.96      0.97        46
+
+    accuracy                           0.99       416
+   macro avg       0.99      0.98      0.99       416
+weighted avg       0.99      0.99      0.99       416
+
+acc:  0.9927884615384616
+--------------------Training Performance--------------------
+              precision    recall  f1-score   support
+
+        LEGI       1.00      1.00      1.00      1150
+        SMIS       1.00      1.00      1.00       321
+        SPAM       0.97      0.98      0.98       195
+
+    accuracy                           0.99      1666
+   macro avg       0.99      0.99      0.99      1666
+weighted avg       0.99      0.99      0.99      1666
+
+acc:  0.9945978391356542
+----------------------------------------RFT----------------------------------------
+--------------------Testing Performance--------------------
+              precision    recall  f1-score   support
+
+        LEGI       0.98      1.00      0.99       286
+        SMIS       1.00      0.99      0.99        84
+        SPAM       1.00      0.91      0.95        46
+
+    accuracy                           0.99       416
+   macro avg       0.99      0.97      0.98       416
+weighted avg       0.99      0.99      0.99       416
+
+acc:  0.9879807692307693
+--------------------Training Performance--------------------
+              precision    recall  f1-score   support
+
+        LEGI       0.99      1.00      1.00      1150
+        SMIS       1.00      1.00      1.00       321
+        SPAM       0.99      0.96      0.98       195
+
+    accuracy                           0.99      1666
+   macro avg       1.00      0.99      0.99      1666
+weighted avg       0.99      0.99      0.99      1666
+
+acc:  0.9945978391356542
+Press any key to continue . . .
