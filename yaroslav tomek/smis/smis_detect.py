@@ -91,7 +91,7 @@ def check_form(url):
 
 
 def messages2vectors(messages, size):
-    features = np.zeros((size, 14))
+    features = np.zeros((size, 15))
     n=0 #індекс меседжу
     greetings = ['hey ', 'Hey','hi ' ,'Hi ', 'Hello', 'hello', 'Good '] #вітання в смс
     feelings = ['annoy', 'furious ', 'hate', 'upset', 'disgusted', 'shy', 'uncertain', 'frustrated', 'scare',
@@ -159,6 +159,8 @@ def messages2vectors(messages, size):
             #якщо є форма в сарс коді сайту, то чотирнадцята фіча 1
             #print(find(messages[n]))
             vector[13]=check_form(find(messages[n]))
+            if len(re.findall('\.', find(messages[n])))>2:
+                vector[14]=1
         else:
             vector[10]=0
 
