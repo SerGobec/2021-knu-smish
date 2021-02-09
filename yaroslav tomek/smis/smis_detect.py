@@ -1,9 +1,7 @@
-import tensorflow_hub as hub
-import tensorflow.compat.v1 as tf
-tf.disable_eager_execution()
 import numpy as np
 import pandas as pd
 import sklearn
+import os
 import re
 import whois
 from datetime import date, datetime
@@ -11,15 +9,16 @@ from dateutil.relativedelta import relativedelta
 from urllib.parse import urlparse
 import urllib.request
 
-from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import confusion_matrix
 from sklearn.naive_bayes import BernoulliNB
-from sklearn.linear_model import PassiveAggressiveClassifier
+from sklearn.naive_bayes import CategoricalNB
+from sklearn.ensemble import RandomForestClassifier
+
 
 
 
 # location of dataset
-DATA_PATH = r"C:\Users\User\Documents\Git\yaroslav tomek\data\dataset.txt"
+os.chdir(r"C:\Users\User\Documents\Git\yaroslav tomek\data")
 
 # names to label-column and text-column
 COLUMN_LABEL = "label"
@@ -30,7 +29,7 @@ LABEL_LEGIT = 'LEGI'
 LABEL_SPAM = 'SPAM'
 LABEL_SMISHING = 'SMIS'
 
-dataset = pd.read_csv(DATA_PATH, sep='\t', names=[COLUMN_LABEL, COLUMN_TEXT], header=None)
+dataset = pd.read_csv('dataset.txt', sep='\t', names=[COLUMN_LABEL, COLUMN_TEXT], header=None)
 print('Total size:', dataset.shape[0])
 print('Legit messages:', dataset[dataset[COLUMN_LABEL] == LABEL_LEGIT].shape[0])
 print('Spam messages:', dataset[dataset[COLUMN_LABEL] == LABEL_SPAM].shape[0])
@@ -78,10 +77,11 @@ def check_form(url):
     try:
         response = urllib.request.urlopen(request)
     except urllib.error.HTTPError:
-        #print('123')
         return 1
     except urllib.error.URLError:
         return 0
+    except ConnectionResetError:
+        return 1
     data = response.read()  # The data u need
 
     if '<form ' in str(data):
@@ -159,20 +159,14 @@ def messages2vectors(messages, size):
             #якщо є форма в сарс коді сайту, то чотирнадцята фіча 1
             #print(find(messages[n]))
             vector[13]=check_form(find(messages[n]))
+            #якщо більше двох крапок в лінку, то п'ятнадцята фіча 1
             if len(re.findall('\.', find(messages[n])))>2:
                 vector[14]=1
         else:
             vector[10]=0
 
-
-
-        print(vector, n)
-
-
-
-
+        #print(vector, n)
         n+=1
-
 
     return features
 
@@ -335,21 +329,10 @@ hyperparameters2 = {'alpha':0,
 print("--NATIVE BAYES BERNOULLI--")
 print(evaluate(classifierType2, hyperparameters2, features, labels))
 
-classifierType3 = sklearn.linear_model.PassiveAggressiveClassifier
-hyperparameters3 = {'C':0.5,
-                    'fit_intercept':True,
-                    'max_iter':1000,
-                    'tol':0.0001,
-                    'early_stopping':False,
-                    'n_iter_no_change':3,
-                    'shuffle':True,
-                    'verbose':3,
-                    'loss':'hinge',
-                    'n_jobs':None,
-                    'random_state':None,
-                    'warm_start':True,
-                    'class_weight':None,
-                    'average':True}
-
-print("--PASSIVEAGRESSIVE CLASSIFIER--")
+classifierType3 = sklearn.naive_bayes.CategoricalNB
+hyperparameters3 = {'fit_prior': False,
+                    'alpha': 0.9,
+                    'min_categories': None
+                     }
+print("--NATIVE BAYES CATEGORICAL--")
 print(evaluate(classifierType3, hyperparameters3, features, labels))
