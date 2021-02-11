@@ -15,11 +15,6 @@ from sklearn.naive_bayes import CategoricalNB
 from sklearn.ensemble import RandomForestClassifier
 
 
-
-
-# location of dataset
-os.chdir(r"C:\Users\User\Documents\Git\yaroslav tomek\data")
-
 # names to label-column and text-column
 COLUMN_LABEL = "label"
 COLUMN_TEXT = "text"
@@ -29,7 +24,7 @@ LABEL_LEGIT = 'LEGI'
 LABEL_SPAM = 'SPAM'
 LABEL_SMISHING = 'SMIS'
 
-dataset = pd.read_csv('dataset.txt', sep='\t', names=[COLUMN_LABEL, COLUMN_TEXT], header=None)
+dataset = pd.read_csv('../data/dataset.txt', sep='\t', names=[COLUMN_LABEL, COLUMN_TEXT], header=None)
 print('Total size:', dataset.shape[0])
 print('Legit messages:', dataset[dataset[COLUMN_LABEL] == LABEL_LEGIT].shape[0])
 print('Spam messages:', dataset[dataset[COLUMN_LABEL] == LABEL_SPAM].shape[0])
